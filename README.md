@@ -38,5 +38,7 @@ Three simulation scripts demonstrate the approach under increasing complexity.
   2. Rectangular formation (velocity control only)  
   3. Complex trajectory (complete control law)
 ## results
-https://github.com/Parag-IIT/Leader-Follower-Formation-Control-main/blob/main/Screenshot%202025-04-23%20095122.png
+
+![Screenshot 2025-04-23 095519](https://github.com/user-attachments/assets/a319f6e9-1c7b-4295-81d8-0211d839d039)
+
 

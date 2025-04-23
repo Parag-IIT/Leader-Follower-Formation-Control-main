@@ -38,6 +38,9 @@ Three simulation scripts demonstrate the approach under increasing complexity.
   2. Rectangular formation (velocity control only)  
   3. Complex trajectory (complete control law)
 ## results
+![Screenshot 2025-04-23 095122](https://github.com/user-attachments/assets/8cb3ef7b-c989-4ae1-b9b1-b866136359c0)
+
+![Screenshot 2025-04-23 095310](https://github.com/user-attachments/assets/470021d9-7f14-4764-a5ac-0cce0933b3c7)
 
 ![Screenshot 2025-04-23 095519](https://github.com/user-attachments/assets/a319f6e9-1c7b-4295-81d8-0211d839d039)
 

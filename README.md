@@ -37,3 +37,6 @@ Three simulation scripts demonstrate the approach under increasing complexity.
   1. Line formation (velocity control only)  
   2. Rectangular formation (velocity control only)  
   3. Complex trajectory (complete control law)
+## results
+https://github.com/Parag-IIT/Leader-Follower-Formation-Control-main/blob/main/Screenshot%202025-04-23%20095122.png
+
